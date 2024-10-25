@@ -7,5 +7,5 @@ Repositório Destinado a publicação de alguns dos projetos elaborados na FCD d
 
 ## [Previsão de Expectativa de Vida](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/projeto6_previsao_de%20expectativa_de_vida_regressao_linear.ipynb)
 
-## [Análise Fatorial - Extraindo Fatores latentes que resumem o Comportamento dos clientes]().
+## [Análise Fatorial - Extraindo Fatores latentes que resumem o Comportamento dos clientes](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/projeto5_data_science_em_vendas-analise_fatorial.ipynb).
 
