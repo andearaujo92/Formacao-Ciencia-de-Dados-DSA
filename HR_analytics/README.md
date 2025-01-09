@@ -29,8 +29,12 @@ Relationship Satisfaction: Satisfação com os relacionamentos no trabalho,
 Standard Hours: Horas padrão de trabalho      
 
 # **Premissas do Target**
-O Target escolhido foram funcionários empregados atualmente e funcionários que pediram demissão.     
-Os funcionários demitidos não foram avaliados como Target
+O Target escolhido foram funcionários empregados atualmente e funcionários que pediram demissão.
+
+Funcionários Empregados = 0    
+Funcionários que Pediram demissão = 1       
+
+Os funcionários demitidos pela Companhia não foram avaliados como Target, e foram descartados da base de dados.
 
 # **Análise Exploratória**
 Foi Plotado alguns Boxplots para entender os outliers e a influência de cada variável no Target.
