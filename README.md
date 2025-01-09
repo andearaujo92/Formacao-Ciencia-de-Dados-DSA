@@ -9,3 +9,5 @@ Repositório Destinado a publicação de alguns dos projetos elaborados na FCD d
 
 ## [Análise Fatorial - Extraindo Fatores latentes que resumem o Comportamento dos clientes](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/projeto5_data_science_em_vendas-analise_fatorial.ipynb).
 
+## [Human Resources Analytics - Previsão de Insatisfação e Pedido de Demissão de Colaboradores](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/HR_analytics/README.md)
+
