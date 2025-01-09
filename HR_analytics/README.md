@@ -1,4 +1,4 @@
-# **Projeto de Predição de Insatisfação de Colaborador**
+# **Projeto de Predição de Insatisfação e Pedido de Demissão de Colaborador**
 
 Nesse Projeto a Companhia precisava entender quais os motivos de insatisfação dos funcionários.
 Os Dados coletados pela Companhia possui as seguintes variáveis:
