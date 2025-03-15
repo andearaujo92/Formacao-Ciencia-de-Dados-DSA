@@ -11,3 +11,5 @@ Repositório Destinado a publicação de alguns dos projetos elaborados na FCD d
 
 ## [Human Resources Analytics - Previsão de Insatisfação e Pedido de Demissão de Colaboradores](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/HR_analytics/README.md)
 
+## [Previsão de Série TEmporal de Consumo de Energia](https://github.com/andearaujo92/Formacao-Ciencia-de-Dados-DSA/blob/main/projeto-consumo-energia.ipynb)
+
